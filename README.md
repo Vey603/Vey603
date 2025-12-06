@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👨‍💻 Hola
 
-<!--
-**Vey603/Vey603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil. Soy un estudiante apasionado por aprender programación y crear cosas increíbles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Mis Objetivos
+
+Quiero convertirme en un **buen desarrollador** y dominar diferentes lenguajes de programación. Me encanta resolver problemas y aprender nuevas tecnologías cada día.
+
+## 📚 Estoy Aprendiendo
+
+- **HTML y CSS** - Para crear sitios web
+- **JavaScript** - Para programación web interactiva
+- **Python** - Para lógica de programación
+- **Git y GitHub** - Control de versiones
+
+## 💡 Mis Fortalezas
+
+- Soy un **aprendiz constante**
+- Me encanta **resolver problemas**
+- Estoy siempre **motivado** a mejorar
+- Soy **colaborativo**
+
+## 🚀 Buscando
+
+Colaborar en proyectos educativos y de código abierto para crecer como programador.
+
+---
+
+## 📫 Conecta Conmigo
+
+- **Email:** bayronavila603@gmail.com
+
+---
+
+⭐ **Gracias por pasar por mi perfil**
