@@ -28,6 +28,12 @@ Colaborar en proyectos educativos y de código abierto para crecer como programa
 
 ---
 
+### :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+---
+
 ## 📫 Conecta Conmigo
 
 - **Email:** bayronavila603@gmail.com
