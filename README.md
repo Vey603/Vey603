@@ -30,14 +30,14 @@ Colaborar en proyectos educativos y de código abierto para crecer como programa
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Vey603/Mi-Cuarto-Repositorio](https://github.com/Vey603/Mi-Cuarto-Repositorio)<br>
-2. 💪 Opened PR [#3](undefined) in [Vey603/Mi-Cuarto-Repositorio](https://github.com/Vey603/Mi-Cuarto-Repositorio)<br>
+1. ✌️ Released [v0.1.0](https://github.com/Vey603/Repositorio-Release/releases/tag/v0.1.0) in [Vey603/Repositorio-Release](https://github.com/Vey603/Repositorio-Release)<br>
+2. ⬆️ Pushed undefined commit(s) to [Vey603/Repositorio-Release](https://github.com/Vey603/Repositorio-Release)<br>
 3. ⬆️ Pushed undefined commit(s) to [Vey603/Mi-Cuarto-Repositorio](https://github.com/Vey603/Mi-Cuarto-Repositorio)<br>
-4. ⬆️ Pushed undefined commit(s) to [Vey603/Mi-Cuarto-Repositorio](https://github.com/Vey603/Mi-Cuarto-Repositorio)<br>
-5. 💪 Opened PR [#2](undefined) in [Vey603/Mi-Cuarto-Repositorio](https://github.com/Vey603/Mi-Cuarto-Repositorio)<br>
+4. 💪 Opened PR [#3](undefined) in [Vey603/Mi-Cuarto-Repositorio](https://github.com/Vey603/Mi-Cuarto-Repositorio)<br>
+5. ⬆️ Pushed undefined commit(s) to [Vey603/Mi-Cuarto-Repositorio](https://github.com/Vey603/Mi-Cuarto-Repositorio)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 11th, 2025, 2:07:28 AM
+Last Updated: Thursday, December 11th, 2025, 12:59:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
